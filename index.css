@@ -40,3 +40,9 @@ header {
     background: #d291bc;
   }
   
+.card{
+  width: 18rem;
+}
+.custom-spacing {
+  padding-top: 60px; 
+}
